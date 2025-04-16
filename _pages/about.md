@@ -67,11 +67,10 @@ My research interests lie in the areas of:
   - 👤 **Zibo Wang**, Yuhang Zhou, Chen Tian, Xiaoliang Wang, Xianping Chen
 </div>
 
-<!-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 
-- *2024.12*: Received (my second) National Scholarship for Ph.D. students.
-- *2022.12*: Received National Scholarship for Ph.D. students.
-- *2017.12*: Awarded National Scholarship for Undergraduate students. -->
+- *2024.08*: Awarded Excellent Intern at Huawei Technologies Co., Ltd.
+- *2022.12*: Awarded the Ph.D. Student President’s Special Scholarship(博士研究生校长特别奖学金).
 
 # 💻 Internships
 - *2023.08 - 2025.04*, Huawei, China.
