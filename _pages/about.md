@@ -24,11 +24,7 @@ redirect_from:
 
 I am Zibo Wang(王梓博), a third-year Ph.D. student at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University.
 \\
-I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
-
----
-
-My research interests lie in the areas of:
+I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). My research interests lie in the areas of:
 * Machine Learning System (MLSys)
 * Energy efficiency optimization
 * Memory optimization
