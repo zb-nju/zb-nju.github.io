@@ -53,7 +53,7 @@ My research interests lie in the areas of:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ASPLOS'25 &nbsp;</span>
-  *Using Analytical Performance/Power Model and Fine-Grained DVFS to Enhance AI Accelerator Energy Efficiency*. 📄 [**Paper**](files/paper/DVFS.pdf)
+  *Using Analytical Performance/Power Model and Fine-Grained DVFS to Enhance AI Accelerator Energy Efficiency*. 📄 [**Paper**](files/paper/ASPLOS25_DVFS.pdf)
 
   - 👤 **Zibo Wang**, Yijia Zhang, Fuchun Wei, Bingqiang Wang, Yanlin Liu, Zhiheng Hu, Jingyi Zhang, Xiaoxin Xu, Jian He, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
@@ -61,7 +61,7 @@ My research interests lie in the areas of:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   APNet'23 &nbsp;</span>
-  *AFNFA: An Approach to Automate NCCL Configuration Exploration*. 📄 [**Paper**](files/paper/AFNFA.pdf)
+  *AFNFA: An Approach to Automate NCCL Configuration Exploration*. 📄 [**Paper**](files/paper/APNet23_AFNFA.pdf)
   - 👤 **Zibo Wang**, Yuhang Zhou, Chen Tian, Xiaoliang Wang, Xianping Chen
 </div>
 
