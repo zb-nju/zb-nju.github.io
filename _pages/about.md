@@ -73,6 +73,6 @@ I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/
 - *2022.07 - 2022.09*, Pengcheng Lab, China.
 - *2021.07 - 2021.08*, Alibaba Cloud, China.
 
-<div style="height: 250px;width: 250px; justify-content: center; align-items: center;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iaPASPcQ0WjfLyPGayaBeBgN2nSY7KSUDzXe9V881tc&cl=ffffff&w=a"></script>
+<div style="text-align: center; justify-content: center; align-items: center;">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=260&t=tt&d=iaPASPcQ0WjfLyPGayaBeBgN2nSY7KSUDzXe9V881tc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 </div>
