@@ -38,8 +38,9 @@ My research interests lie in the areas of:
 - *2018.09 - 2022.06*, Nanjing University, China. Bachelor.
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Paper: A paper accepted by ASPLOS 2025.
-- *2023.06*: &nbsp;🎉🎉 Paper: AFNFA accepted by APNet 2023.
+- *2025.01*: &nbsp;🎉🎉 Paper: Yuhang's paper is accepted by ASPLOS 2025.
+- *2024.10*: &nbsp;🎉🎉 Paper: A paper is accepted by ASPLOS 2025.
+- *2023.06*: &nbsp;🎉🎉 Paper: AFNFA is accepted by APNet 2023.
 
 
 # 📝 Publications
