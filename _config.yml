@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao's Page"
-description              : "This is the webpage of Hao Zheng, for academic information."
-repository               : "mmhzheng/mmhzheng.github.io"
+title                    : "Zibo's Page"
+description              : "This is the webpage of Zibo Wang, for academic information."
+repository               : "zb-nju/zb-nju.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-NFE4F632DD # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-V533F51G21 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao Zheng"
+  name             : "Zibo Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c16A25AAAAAJ"
-  email            : "hzheng D0T cs AT outlook D0T com"
+  email            : "zbwang@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
