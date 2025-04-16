@@ -22,7 +22,9 @@ redirect_from:
 
 # 👋 About me
 
-I am Zibo Wang(王梓博), a third-year Ph.D. student at NASA Group, State Key Laboratory for Novel Software Technology, School of Computer Science, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
+I am Zibo Wang(王梓博), a third-year Ph.D. student at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University.
+\\
+I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 
 ---
 
