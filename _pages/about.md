@@ -20,11 +20,9 @@ redirect_from:
 <br>
 
 
-Hi there 👋
+# 👋 About me
 
-I am a third-year Ph.D. student in the Computer Science Department at Nanjing University, China,
-\\
-under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
+I am Zibo Wang(王梓博), a third-year Ph.D. student at NASA Group, State Key Laboratory for Novel Software Technology, School of Computer Science, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 
 ---
 
@@ -75,6 +73,7 @@ My research interests lie in the areas of:
 
 # 💻 Internships
 - *2023.08 - 2025.04*, Huawei, China.
+- *2022.07 - 2022.09*, Pengcheng Lab, China.
 - *2021.07 - 2021.08*, Alibaba Cloud, China.
 
 
