@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zibo's Page"
-description              : "This is the webpage of Zibo Wang, for academic information."
+description              : "A Phd candidate in Nanjing University."
 repository               : "zb-nju/zb-nju.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Nanjing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c16A25AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=c16A25AAAAAJ"
   email            : "zbwang@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
